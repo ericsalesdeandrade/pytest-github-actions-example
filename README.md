@@ -5,7 +5,7 @@
 This project explains how to Build and Test A CRUD Rest API using FastAPI, SQLite (via SQLAlchemy) and Pytest. -->
 
 # Requirements
-* Python (3.10.9)
+* Python (3.10.10)
 
 Please install the dependencies via the `requirements.txt` file using 
 ```commandline

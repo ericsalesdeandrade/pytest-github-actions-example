@@ -4,3 +4,4 @@ venv/
 # .env
 *.db
 *.idea
+*.ruff_cache

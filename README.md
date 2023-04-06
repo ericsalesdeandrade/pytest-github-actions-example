@@ -1,8 +1,8 @@
 # PyTest GitHub Actions Example
 
-<!-- This repo contains the sample code for the article - [Building and Testing FastAPI CRUD APIs with Pytest: A Step-By-Step Guide](https://pytest-with-eric.com/pytest-advanced/pytest-fastapi-testing/)
+This repo contains the sample code for the article - [Python Unit Testing Made Easy with Pytest and GitHub Actions](https://pytest-with-eric.com/integrations/pytest-github-actions/)
 
-This project explains how to Build and Test A CRUD Rest API using FastAPI, SQLite (via SQLAlchemy) and Pytest. -->
+This project explains how to automate the testing of your Python code using PyTest and GitHub Actions.
 
 # Requirements
 * Python (3.10.10)

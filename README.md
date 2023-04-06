@@ -1,6 +1,6 @@
 # PyTest GitHub Actions Example
 
-This repo contains the sample code for the article - [Python Unit Testing Made Easy with Pytest and GitHub Actions](https://pytest-with-eric.com/integrations/pytest-github-actions/)
+This repo contains the sample code for the article - [Automated Python Unit Testing Made Easy with Pytest and GitHub Actions](https://pytest-with-eric.com/integrations/pytest-github-actions/)
 
 This project explains how to automate the testing of your Python code using PyTest and GitHub Actions.
 
